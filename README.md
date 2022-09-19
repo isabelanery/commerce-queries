@@ -1,4 +1,4 @@
-# MongoDB Commerce!
+# MongoDB Commerce
 
 ## About
 Project developed at Back-End Development Module of Trybe's Web Development course. It was approved with 100% of the mandatory and optional requirements met.
